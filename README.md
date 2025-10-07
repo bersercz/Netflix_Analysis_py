@@ -8,7 +8,7 @@ The dataset contains information about movies and TV shows available on Netflix 
 
 ## About the Dataset
 
-- **File(s):** e.g. `netflix_titles.csv` (or similar)  
+- **File(s):** e.g. `Netflix_Data.csv`
 - **Rows / Entries:** Tens of thousands (depending on source)  
 - **Columns / Features Include:**
   - `show_id` (unique identifier)  
@@ -65,12 +65,12 @@ This analysis sheds light on how Netflix’s content library has evolved in term
 
 ## Requirements
 
-**Python 3.12.0**
-**Jupyter Notebook**
-**pandas**
-**numpy**
-**matplotlib**
-**seaborn**
+- **Python 3.12.0**
+- **Jupyter Notebook**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
 
 
 ## How to Run
